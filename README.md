@@ -1,6 +1,6 @@
 # Bellabeat_case_study_with_R_and_Tableau
 
-![](sprocket_central_logo.png)
+![](olivia_culpo.png)
 
 ## Introduction
 **Bellabeat** is a high-tech company that manufactures health-focused smart products.
